@@ -1,0 +1,77 @@
+h1 {
+
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-family: 'Great Vibes', cursive;
+
+}
+
+body {
+
+	background-color: black;
+	font-family: 'Open Sans', serif;
+}
+
+.card {
+
+	width: 500px;
+	border-left: 10%;
+	padding-top: 0;
+
+}
+
+.card-header {
+	width: 500px;
+	border-left: 10%;
+	vertical-align: top;
+	font-size: 20px;
+}
+
+.card-body, .card-title, .card-text {
+
+	width: 500px;
+	border-left: 10%;
+	vertical-align: top;
+
+}
+
+#left {
+
+	left: 10%;
+	
+	vertical-align: top;
+}
+
+#left-cell {
+
+	width: 50%;
+	align-self: 
+}
+
+#right-cell {
+
+	width: 50%;
+}
+
+#right {
+
+	left: 60%;
+	
+	vertical-align: top;
+}
+
+.thumbnail {
+	width: 25%;
+	vertical-align: top;
+
+}
+
+.youtube {
+	width: 75%;
+}
+
+img {
+
+	vertical-align: top;
+}

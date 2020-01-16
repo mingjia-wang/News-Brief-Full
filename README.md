@@ -1,4 +1,5 @@
 # News Brief
+by Mingjia Wang and Pranav Acharya
 
 News Brief is a website we created to consolidate the day's top headlines, trends, and videos all in one place. It is meant to provide people with the news and information they need to know -- all on a single website.
 
